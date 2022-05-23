@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+bbox_txt/*
+images/*
+meta_json/*
+custom_dataset/*
+.env
+class_list.txt
+
